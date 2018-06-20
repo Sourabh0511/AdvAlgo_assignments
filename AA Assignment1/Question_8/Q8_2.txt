@@ -1,0 +1,9 @@
+Average of all 100 instructions = 0.000939
+
+Average of all 67 inserts = 0.000956
+
+Average of all 33 deletions = 0.000905
+
+Max time for insert = 0.002230
+
+Max time for deletion = 0.001779

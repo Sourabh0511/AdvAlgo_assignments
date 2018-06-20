@@ -1,0 +1,21 @@
+The memory implementation (folder memory_implementation) uses txt file as terminal input.
+Hence the text file should be in the same folder as the make and other file.
+
+Make file is there for execution
+commands
+(type exact same thing in terminal)
+make
+make exe
+
+
+The file implementation (folder file_implementation) uses csv file which is being read in the code itself.
+Hence the csv file should be in the same folder as other program file.
+
+It is a menu driven code.
+1 for array and 2 for file
+Then we can enter a value as a positive number without a "-" sign for searching.
+For deletion we have to start with a "-" sign and enter the value. It will delete then.(cannot switch between file and array)
+
+for execution type
+gcc -w B-trees.c
+./a.out

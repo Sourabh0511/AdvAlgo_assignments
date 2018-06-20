@@ -1,0 +1,434 @@
+			Dynamic Table
+
+
+
+	Initialised Dynamic Table...
+
+
+No of pushes(ones) : 56
+
+	OPERATIONS	(0->pop	1->push)
+1	0	1	1	0	1	1	1	1	0	00	1	0	1	0	1	0	0	0	0	10	1	1	0	1	0	1	0	0	0	00	0	1	1	1	0	1	1	1	0	01	1	0	1	1	1	1	1	1	0	00	1	0	0	0	0	1	1	1	1	11	1	1	0	0	0	0	1	1	0	01	1	1	1	1	1	1	0	1	0	01	1	1	0	1	1	0	0	1	1	10	
+
+
+	Operations to be performed defined...
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000564
+
+
+After all pushes
+
+Max size : 2
+85  0  
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000713
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000450
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000547
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000517
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000687
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000415
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000684
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000403
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000421
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000477
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000306
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000410
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000289
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000316
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000397
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000419
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000291
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000447
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000329
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000248
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000308
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000445
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000310
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000639
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000432
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000419
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000521
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000656
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000444
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000436
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000254
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000229
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000356
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000307
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000473
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000537
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000272
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000305
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000406
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000530
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000283
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000378
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000557
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000521
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000279
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000314
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000355
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000340
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000263
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000311
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000365
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000612
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000269
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000380
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000517
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000448
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000293
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000499
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000319
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000288
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000451
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000315
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000526
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000310
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000312
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000308
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000310
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000312
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000295
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000289
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000392
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000282
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000317
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000312
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000296
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000288
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000314
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000314
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000312
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000314
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000316
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000310
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000310
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000296
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000316
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000297
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000285
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000316
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000316
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000310
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000299
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000327
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000308
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000295
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000284
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000314
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000314
+
+
+	Push
+Time Elapsed(milliseconds) for insert = 0.000318
+
+
+	Delete
+Time Elapsed(milliseconds) for delete = 0.000295
+
+
+max_size = 18
+88  32  12  45  62  11  80  95  10  74  59  75  77  90  25  12  42  0  
+
+
+Average of all 100 instructions = 0.000376
+
+Average of all 56 inserts = 0.000388
+
+Average of all 44 deletions = 0.000361
+
+Max time for insert = 0.000687
+
+Max time for deletion = 0.000713
